@@ -1,0 +1,923 @@
+2018-05-19 14:33:52  [ main:0 ] - [ INFO ]  init start
+2018-05-19 14:33:52  [ main:18 ] - [ INFO ]  get formate key start
+2018-05-19 14:33:52  [ main:20 ] - [ INFO ]  get formate key finish
+2018-05-19 14:33:53  [ main:778 ] - [ INFO ]  init finish
+2018-05-19 14:33:53  [ main:779 ] - [ INFO ]  encrypt start
+2018-05-19 14:33:53  [ main:779 ] - [ INFO ]  encrypt finis
+2018-05-19 15:27:02  [ main:0 ] - [ INFO ]  init start
+2018-05-19 15:27:02  [ main:3 ] - [ INFO ]  get formate key start
+2018-05-19 15:27:02  [ main:5 ] - [ INFO ]  get formate key finish
+2018-05-19 15:27:03  [ main:610 ] - [ INFO ]  init finish
+2018-05-19 15:27:03  [ main:622 ] - [ INFO ]  encrypt start
+2018-05-19 15:27:03  [ main:623 ] - [ INFO ]  encrypt finis
+2018-05-19 15:27:03  [ main:626 ] - [ INFO ]  encrypt start
+2018-05-19 15:27:03  [ main:626 ] - [ INFO ]  encrypt finis
+2018-05-19 15:27:03  [ main:628 ] - [ ERROR ]  error while do encrypt
+java.lang.IllegalStateException: Cannot get a STRING value from a NUMERIC cell
+	at org.apache.poi.xssf.usermodel.XSSFCell.typeMismatch(XSSFCell.java:1077)
+	at org.apache.poi.xssf.usermodel.XSSFCell.getRichStringCellValue(XSSFCell.java:395)
+	at org.apache.poi.xssf.usermodel.XSSFCell.getStringCellValue(XSSFCell.java:347)
+	at com.dingo.encrypt.EncryptExcel.doEncrypt(EncryptExcel.java:37)
+	at com.dingo.encrypt.App.main(App.java:7)
+2018-05-19 15:27:03  [ main:628 ] - [ ERROR ]  error while do encrypt
+java.lang.IllegalStateException: Cannot get a STRING value from a NUMERIC cell
+	at org.apache.poi.xssf.usermodel.XSSFCell.typeMismatch(XSSFCell.java:1077)
+	at org.apache.poi.xssf.usermodel.XSSFCell.getRichStringCellValue(XSSFCell.java:395)
+	at org.apache.poi.xssf.usermodel.XSSFCell.getStringCellValue(XSSFCell.java:347)
+	at com.dingo.encrypt.EncryptExcel.doEncrypt(EncryptExcel.java:37)
+	at com.dingo.encrypt.App.main(App.java:7)
+2018-05-19 15:29:16  [ main:0 ] - [ INFO ]  init start
+2018-05-19 15:29:16  [ main:24 ] - [ INFO ]  get formate key start
+2018-05-19 15:29:16  [ main:53 ] - [ INFO ]  get formate key finish
+2018-05-19 15:29:59  [ main:43669 ] - [ INFO ]  init finish
+2018-05-19 15:30:35  [ main:79235 ] - [ INFO ]  encrypt start
+2018-05-19 15:30:35  [ main:79249 ] - [ INFO ]  encrypt finis
+2018-05-19 15:30:44  [ main:88276 ] - [ INFO ]  encrypt start
+2018-05-19 15:30:44  [ main:88277 ] - [ INFO ]  encrypt finis
+2018-05-19 15:30:44  [ main:88288 ] - [ ERROR ]  error while do encrypt
+java.lang.IllegalStateException: Cannot get a STRING value from a NUMERIC cell
+	at org.apache.poi.xssf.usermodel.XSSFCell.typeMismatch(XSSFCell.java:1077)
+	at org.apache.poi.xssf.usermodel.XSSFCell.getRichStringCellValue(XSSFCell.java:395)
+	at org.apache.poi.xssf.usermodel.XSSFCell.getStringCellValue(XSSFCell.java:347)
+	at com.dingo.encrypt.EncryptExcel.doEncrypt(EncryptExcel.java:37)
+	at com.dingo.encrypt.App.main(App.java:7)
+2018-05-19 15:30:44  [ main:88288 ] - [ ERROR ]  error while do encrypt
+java.lang.IllegalStateException: Cannot get a STRING value from a NUMERIC cell
+	at org.apache.poi.xssf.usermodel.XSSFCell.typeMismatch(XSSFCell.java:1077)
+	at org.apache.poi.xssf.usermodel.XSSFCell.getRichStringCellValue(XSSFCell.java:395)
+	at org.apache.poi.xssf.usermodel.XSSFCell.getStringCellValue(XSSFCell.java:347)
+	at com.dingo.encrypt.EncryptExcel.doEncrypt(EncryptExcel.java:37)
+	at com.dingo.encrypt.App.main(App.java:7)
+2018-05-19 15:31:56  [ main:0 ] - [ INFO ]  init start
+2018-05-19 15:31:56  [ main:6 ] - [ INFO ]  get formate key start
+2018-05-19 15:31:56  [ main:8 ] - [ INFO ]  get formate key finish
+2018-05-19 15:31:57  [ main:593 ] - [ INFO ]  init finish
+2018-05-19 15:31:57  [ main:605 ] - [ INFO ]  encrypt start
+2018-05-19 15:31:57  [ main:606 ] - [ INFO ]  encrypt finis
+2018-05-19 15:31:57  [ main:609 ] - [ INFO ]  encrypt start
+2018-05-19 15:31:57  [ main:609 ] - [ INFO ]  encrypt finis
+2018-05-19 15:31:57  [ main:611 ] - [ ERROR ]  error while do encrypt
+java.lang.IllegalStateException: Cannot get a STRING value from a NUMERIC cell
+	at org.apache.poi.xssf.usermodel.XSSFCell.typeMismatch(XSSFCell.java:1077)
+	at org.apache.poi.xssf.usermodel.XSSFCell.getRichStringCellValue(XSSFCell.java:395)
+	at org.apache.poi.xssf.usermodel.XSSFCell.getStringCellValue(XSSFCell.java:347)
+	at com.dingo.encrypt.EncryptExcel.doEncrypt(EncryptExcel.java:37)
+	at com.dingo.encrypt.App.main(App.java:7)
+2018-05-19 15:31:57  [ main:611 ] - [ ERROR ]  error while do encrypt
+java.lang.IllegalStateException: Cannot get a STRING value from a NUMERIC cell
+	at org.apache.poi.xssf.usermodel.XSSFCell.typeMismatch(XSSFCell.java:1077)
+	at org.apache.poi.xssf.usermodel.XSSFCell.getRichStringCellValue(XSSFCell.java:395)
+	at org.apache.poi.xssf.usermodel.XSSFCell.getStringCellValue(XSSFCell.java:347)
+	at com.dingo.encrypt.EncryptExcel.doEncrypt(EncryptExcel.java:37)
+	at com.dingo.encrypt.App.main(App.java:7)
+2018-05-19 15:35:27  [ main:0 ] - [ INFO ]  init start
+2018-05-19 15:35:27  [ main:7 ] - [ INFO ]  get formate key start
+2018-05-19 15:35:27  [ main:8 ] - [ INFO ]  get formate key finish
+2018-05-19 15:35:27  [ main:608 ] - [ INFO ]  init finish
+2018-05-19 15:35:27  [ main:621 ] - [ INFO ]  这是测试
+2018-05-19 15:35:27  [ main:621 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:27  [ main:622 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:27  [ main:625 ] - [ INFO ]  this is a test
+2018-05-19 15:35:27  [ main:625 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:27  [ main:625 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:27  [ main:639 ] - [ INFO ]  1.0
+2018-05-19 15:35:27  [ main:639 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:27  [ main:640 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:27  [ main:641 ] - [ INFO ]  !
+2018-05-19 15:35:27  [ main:641 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:27  [ main:642 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:27  [ main:644 ] - [ INFO ]  这%3
+2018-05-19 15:35:27  [ main:644 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:27  [ main:645 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:27  [ main:645 ] - [ INFO ]  这是测试
+2018-05-19 15:35:27  [ main:646 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:27  [ main:646 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:27  [ main:647 ] - [ INFO ]  this is a test
+2018-05-19 15:35:27  [ main:648 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:27  [ main:648 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:27  [ main:649 ] - [ INFO ]  2.0
+2018-05-19 15:35:27  [ main:649 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:27  [ main:649 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:27  [ main:650 ] - [ INFO ]  @
+2018-05-19 15:35:27  [ main:650 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:27  [ main:651 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:27  [ main:652 ] - [ INFO ]  这%4
+2018-05-19 15:35:27  [ main:652 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:27  [ main:652 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:27  [ main:653 ] - [ INFO ]  这是测试
+2018-05-19 15:35:27  [ main:654 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:27  [ main:654 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:27  [ main:655 ] - [ INFO ]  this is a test
+2018-05-19 15:35:27  [ main:655 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:27  [ main:655 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:27  [ main:656 ] - [ INFO ]  3.0
+2018-05-19 15:35:27  [ main:657 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:27  [ main:657 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:27  [ main:658 ] - [ INFO ]  #
+2018-05-19 15:35:27  [ main:658 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:27  [ main:658 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:660 ] - [ INFO ]  这%5
+2018-05-19 15:35:28  [ main:660 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:660 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:661 ] - [ INFO ]  这是测试
+2018-05-19 15:35:28  [ main:662 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:662 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:663 ] - [ INFO ]  this is a test
+2018-05-19 15:35:28  [ main:663 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:663 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:664 ] - [ INFO ]  4.0
+2018-05-19 15:35:28  [ main:665 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:665 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:666 ] - [ INFO ]  $
+2018-05-19 15:35:28  [ main:666 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:667 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:667 ] - [ INFO ]  这%6
+2018-05-19 15:35:28  [ main:668 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:668 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:669 ] - [ INFO ]  这是测试
+2018-05-19 15:35:28  [ main:669 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:670 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:670 ] - [ INFO ]  this is a test
+2018-05-19 15:35:28  [ main:671 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:671 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:672 ] - [ INFO ]  5.0
+2018-05-19 15:35:28  [ main:672 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:672 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:673 ] - [ INFO ]  !!
+2018-05-19 15:35:28  [ main:673 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:674 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:675 ] - [ INFO ]  这%7
+2018-05-19 15:35:28  [ main:675 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:675 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:676 ] - [ INFO ]  这是测试
+2018-05-19 15:35:28  [ main:676 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:676 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:677 ] - [ INFO ]  this is a test
+2018-05-19 15:35:28  [ main:677 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:678 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:679 ] - [ INFO ]  6.0
+2018-05-19 15:35:28  [ main:679 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:679 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:680 ] - [ INFO ]  @@
+2018-05-19 15:35:28  [ main:681 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:681 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:682 ] - [ INFO ]  这%8
+2018-05-19 15:35:28  [ main:682 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:682 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:683 ] - [ INFO ]  这是测试
+2018-05-19 15:35:28  [ main:683 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:684 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:684 ] - [ INFO ]  this is a test
+2018-05-19 15:35:28  [ main:685 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:685 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:686 ] - [ INFO ]  7.0
+2018-05-19 15:35:28  [ main:686 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:686 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:687 ] - [ INFO ]  ##
+2018-05-19 15:35:28  [ main:688 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:688 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:689 ] - [ INFO ]  这%9
+2018-05-19 15:35:28  [ main:689 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:689 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:690 ] - [ INFO ]  这是测试
+2018-05-19 15:35:28  [ main:690 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:691 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:691 ] - [ INFO ]  this is a test
+2018-05-19 15:35:28  [ main:692 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:692 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:693 ] - [ INFO ]  8.0
+2018-05-19 15:35:28  [ main:693 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:693 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:694 ] - [ INFO ]  !
+2018-05-19 15:35:28  [ main:694 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:694 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:695 ] - [ INFO ]  这%10
+2018-05-19 15:35:28  [ main:696 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:696 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:704 ] - [ INFO ]  这是测试
+2018-05-19 15:35:28  [ main:705 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:705 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:706 ] - [ INFO ]  this is a test
+2018-05-19 15:35:28  [ main:706 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:706 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:707 ] - [ INFO ]  9.0
+2018-05-19 15:35:28  [ main:707 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:708 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:709 ] - [ INFO ]  @
+2018-05-19 15:35:28  [ main:709 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:743 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:744 ] - [ INFO ]  这%11
+2018-05-19 15:35:28  [ main:744 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:744 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:745 ] - [ INFO ]  这是测试
+2018-05-19 15:35:28  [ main:745 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:761 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:764 ] - [ INFO ]  this is a test
+2018-05-19 15:35:28  [ main:765 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:766 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:770 ] - [ INFO ]  10.0
+2018-05-19 15:35:28  [ main:770 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:771 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:779 ] - [ INFO ]  #
+2018-05-19 15:35:28  [ main:790 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:792 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:794 ] - [ INFO ]  这%12
+2018-05-19 15:35:28  [ main:795 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:796 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:799 ] - [ INFO ]  这是测试
+2018-05-19 15:35:28  [ main:800 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:801 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:802 ] - [ INFO ]  this is a test
+2018-05-19 15:35:28  [ main:806 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:807 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:809 ] - [ INFO ]  11.0
+2018-05-19 15:35:28  [ main:841 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:844 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:845 ] - [ INFO ]  $
+2018-05-19 15:35:28  [ main:845 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:845 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:846 ] - [ INFO ]  这%13
+2018-05-19 15:35:28  [ main:847 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:847 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:848 ] - [ INFO ]  这是测试
+2018-05-19 15:35:28  [ main:848 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:848 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:849 ] - [ INFO ]  this is a test
+2018-05-19 15:35:28  [ main:849 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:849 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:850 ] - [ INFO ]  12.0
+2018-05-19 15:35:28  [ main:850 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:851 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:851 ] - [ INFO ]  !!
+2018-05-19 15:35:28  [ main:852 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:852 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:853 ] - [ INFO ]  这%14
+2018-05-19 15:35:28  [ main:853 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:853 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:859 ] - [ INFO ]  这是测试
+2018-05-19 15:35:28  [ main:859 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:859 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:864 ] - [ INFO ]  this is a test
+2018-05-19 15:35:28  [ main:864 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:864 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:867 ] - [ INFO ]  13.0
+2018-05-19 15:35:28  [ main:868 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:871 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:873 ] - [ INFO ]  @@
+2018-05-19 15:35:28  [ main:873 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:874 ] - [ INFO ]  encrypt finis
+2018-05-19 15:35:28  [ main:875 ] - [ INFO ]  这%15
+2018-05-19 15:35:28  [ main:875 ] - [ INFO ]  encrypt start
+2018-05-19 15:35:28  [ main:875 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:0 ] - [ INFO ]  init start
+2018-05-19 15:52:29  [ main:6 ] - [ INFO ]  get formate key start
+2018-05-19 15:52:29  [ main:8 ] - [ INFO ]  get formate key finish
+2018-05-19 15:52:29  [ main:647 ] - [ INFO ]  init finish
+2018-05-19 15:52:29  [ main:659 ] - [ INFO ]  这是测试
+2018-05-19 15:52:29  [ main:660 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:661 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:666 ] - [ INFO ]  this is a test
+2018-05-19 15:52:29  [ main:666 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:667 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:683 ] - [ INFO ]  14.0
+2018-05-19 15:52:29  [ main:684 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:684 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:686 ] - [ INFO ]  ##
+2018-05-19 15:52:29  [ main:687 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:687 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:690 ] - [ INFO ]  这是测试
+2018-05-19 15:52:29  [ main:690 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:690 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:691 ] - [ INFO ]  this is a test
+2018-05-19 15:52:29  [ main:692 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:692 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:693 ] - [ INFO ]  14.0
+2018-05-19 15:52:29  [ main:694 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:694 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:695 ] - [ INFO ]  ##
+2018-05-19 15:52:29  [ main:695 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:695 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:696 ] - [ INFO ]  这是测试
+2018-05-19 15:52:29  [ main:696 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:697 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:697 ] - [ INFO ]  this is a test
+2018-05-19 15:52:29  [ main:698 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:698 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:705 ] - [ INFO ]  14.0
+2018-05-19 15:52:29  [ main:705 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:705 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:707 ] - [ INFO ]  ##
+2018-05-19 15:52:29  [ main:707 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:707 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:708 ] - [ INFO ]  这是测试
+2018-05-19 15:52:29  [ main:708 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:708 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:709 ] - [ INFO ]  this is a test
+2018-05-19 15:52:29  [ main:710 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:710 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:711 ] - [ INFO ]  14.0
+2018-05-19 15:52:29  [ main:711 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:711 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:713 ] - [ INFO ]  ##
+2018-05-19 15:52:29  [ main:713 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:714 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:715 ] - [ INFO ]  这是测试
+2018-05-19 15:52:29  [ main:715 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:716 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:717 ] - [ INFO ]  this is a test
+2018-05-19 15:52:29  [ main:718 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:718 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:719 ] - [ INFO ]  14.0
+2018-05-19 15:52:29  [ main:719 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:720 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:721 ] - [ INFO ]  ##
+2018-05-19 15:52:29  [ main:721 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:722 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:723 ] - [ INFO ]  这是测试
+2018-05-19 15:52:29  [ main:723 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:723 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:724 ] - [ INFO ]  this is a test
+2018-05-19 15:52:29  [ main:724 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:725 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:726 ] - [ INFO ]  14.0
+2018-05-19 15:52:29  [ main:726 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:726 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:727 ] - [ INFO ]  ##
+2018-05-19 15:52:29  [ main:727 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:727 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:728 ] - [ INFO ]  这是测试
+2018-05-19 15:52:29  [ main:728 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:729 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:729 ] - [ INFO ]  this is a test
+2018-05-19 15:52:29  [ main:730 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:730 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:731 ] - [ INFO ]  14.0
+2018-05-19 15:52:29  [ main:731 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:732 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:732 ] - [ INFO ]  ##
+2018-05-19 15:52:29  [ main:733 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:733 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:734 ] - [ INFO ]  这是测试
+2018-05-19 15:52:29  [ main:734 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:734 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:735 ] - [ INFO ]  this is a test
+2018-05-19 15:52:29  [ main:735 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:735 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:737 ] - [ INFO ]  14.0
+2018-05-19 15:52:29  [ main:738 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:738 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:739 ] - [ INFO ]  ##
+2018-05-19 15:52:29  [ main:739 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:739 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:740 ] - [ INFO ]  这是测试
+2018-05-19 15:52:29  [ main:741 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:741 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:741 ] - [ INFO ]  this is a test
+2018-05-19 15:52:29  [ main:742 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:742 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:743 ] - [ INFO ]  14.0
+2018-05-19 15:52:29  [ main:743 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:743 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:744 ] - [ INFO ]  ##
+2018-05-19 15:52:29  [ main:744 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:744 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:745 ] - [ INFO ]  这是测试
+2018-05-19 15:52:29  [ main:745 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:746 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:746 ] - [ INFO ]  this is a test
+2018-05-19 15:52:29  [ main:747 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:747 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:748 ] - [ INFO ]  14.0
+2018-05-19 15:52:29  [ main:748 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:748 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:749 ] - [ INFO ]  ##
+2018-05-19 15:52:29  [ main:749 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:760 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:761 ] - [ INFO ]  这是测试
+2018-05-19 15:52:29  [ main:761 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:762 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:762 ] - [ INFO ]  this is a test
+2018-05-19 15:52:29  [ main:763 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:763 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:764 ] - [ INFO ]  14.0
+2018-05-19 15:52:29  [ main:764 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:764 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:765 ] - [ INFO ]  ##
+2018-05-19 15:52:29  [ main:765 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:765 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:766 ] - [ INFO ]  这是测试
+2018-05-19 15:52:29  [ main:766 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:766 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:767 ] - [ INFO ]  this is a test
+2018-05-19 15:52:29  [ main:767 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:768 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:770 ] - [ INFO ]  14.0
+2018-05-19 15:52:29  [ main:771 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:771 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:772 ] - [ INFO ]  ##
+2018-05-19 15:52:29  [ main:772 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:772 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:773 ] - [ INFO ]  这是测试
+2018-05-19 15:52:29  [ main:773 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:774 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:775 ] - [ INFO ]  this is a test
+2018-05-19 15:52:29  [ main:775 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:775 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:776 ] - [ INFO ]  14.0
+2018-05-19 15:52:29  [ main:776 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:777 ] - [ INFO ]  encrypt finis
+2018-05-19 15:52:29  [ main:777 ] - [ INFO ]  ##
+2018-05-19 15:52:29  [ main:778 ] - [ INFO ]  encrypt start
+2018-05-19 15:52:29  [ main:778 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:19  [ main:0 ] - [ INFO ]  init start
+2018-05-19 15:55:19  [ main:7 ] - [ INFO ]  get formate key start
+2018-05-19 15:55:19  [ main:8 ] - [ INFO ]  get formate key finish
+2018-05-19 15:55:20  [ main:608 ] - [ INFO ]  init finish
+2018-05-19 15:55:36  [ main:16516 ] - [ INFO ]  这是测试
+2018-05-19 15:55:36  [ main:16516 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:36  [ main:16517 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:36  [ main:16521 ] - [ INFO ]  this is a test
+2018-05-19 15:55:36  [ main:16522 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:36  [ main:16522 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:36  [ main:16524 ] - [ INFO ]  14.0
+2018-05-19 15:55:36  [ main:16524 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:36  [ main:16524 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:36  [ main:16533 ] - [ INFO ]  ##
+2018-05-19 15:55:36  [ main:16533 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:36  [ main:16533 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19646 ] - [ INFO ]  这是测试
+2018-05-19 15:55:39  [ main:19646 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19655 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19656 ] - [ INFO ]  this is a test
+2018-05-19 15:55:39  [ main:19657 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19657 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19659 ] - [ INFO ]  14.0
+2018-05-19 15:55:39  [ main:19660 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19661 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19662 ] - [ INFO ]  ##
+2018-05-19 15:55:39  [ main:19665 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19666 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19669 ] - [ INFO ]  这是测试
+2018-05-19 15:55:39  [ main:19669 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19670 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19671 ] - [ INFO ]  this is a test
+2018-05-19 15:55:39  [ main:19671 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19671 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19672 ] - [ INFO ]  14.0
+2018-05-19 15:55:39  [ main:19673 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19673 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19674 ] - [ INFO ]  ##
+2018-05-19 15:55:39  [ main:19675 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19675 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19676 ] - [ INFO ]  这是测试
+2018-05-19 15:55:39  [ main:19677 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19677 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19678 ] - [ INFO ]  this is a test
+2018-05-19 15:55:39  [ main:19678 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19679 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19680 ] - [ INFO ]  14.0
+2018-05-19 15:55:39  [ main:19680 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19680 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19682 ] - [ INFO ]  ##
+2018-05-19 15:55:39  [ main:19682 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19683 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19684 ] - [ INFO ]  这是测试
+2018-05-19 15:55:39  [ main:19684 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19684 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19685 ] - [ INFO ]  this is a test
+2018-05-19 15:55:39  [ main:19686 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19686 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19687 ] - [ INFO ]  14.0
+2018-05-19 15:55:39  [ main:19688 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19688 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19689 ] - [ INFO ]  ##
+2018-05-19 15:55:39  [ main:19689 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19690 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19691 ] - [ INFO ]  这是测试
+2018-05-19 15:55:39  [ main:19691 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19692 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19693 ] - [ INFO ]  this is a test
+2018-05-19 15:55:39  [ main:19694 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19694 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19695 ] - [ INFO ]  14.0
+2018-05-19 15:55:39  [ main:19695 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19695 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19696 ] - [ INFO ]  ##
+2018-05-19 15:55:39  [ main:19697 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19697 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19698 ] - [ INFO ]  这是测试
+2018-05-19 15:55:39  [ main:19698 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19698 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19699 ] - [ INFO ]  this is a test
+2018-05-19 15:55:39  [ main:19700 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19700 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19701 ] - [ INFO ]  14.0
+2018-05-19 15:55:39  [ main:19701 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19702 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19702 ] - [ INFO ]  ##
+2018-05-19 15:55:39  [ main:19703 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19703 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19706 ] - [ INFO ]  这是测试
+2018-05-19 15:55:39  [ main:19707 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19707 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19708 ] - [ INFO ]  this is a test
+2018-05-19 15:55:39  [ main:19708 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19709 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19710 ] - [ INFO ]  14.0
+2018-05-19 15:55:39  [ main:19710 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19710 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19711 ] - [ INFO ]  ##
+2018-05-19 15:55:39  [ main:19712 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19712 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19713 ] - [ INFO ]  这是测试
+2018-05-19 15:55:39  [ main:19713 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19714 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19714 ] - [ INFO ]  this is a test
+2018-05-19 15:55:39  [ main:19715 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19715 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19716 ] - [ INFO ]  14.0
+2018-05-19 15:55:39  [ main:19716 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19717 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19718 ] - [ INFO ]  ##
+2018-05-19 15:55:39  [ main:19719 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19719 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19720 ] - [ INFO ]  这是测试
+2018-05-19 15:55:39  [ main:19720 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19720 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19721 ] - [ INFO ]  this is a test
+2018-05-19 15:55:39  [ main:19722 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19722 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19723 ] - [ INFO ]  14.0
+2018-05-19 15:55:39  [ main:19723 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19723 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19724 ] - [ INFO ]  ##
+2018-05-19 15:55:39  [ main:19724 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19725 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19731 ] - [ INFO ]  这是测试
+2018-05-19 15:55:39  [ main:19732 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19732 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19733 ] - [ INFO ]  this is a test
+2018-05-19 15:55:39  [ main:19733 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19734 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19735 ] - [ INFO ]  14.0
+2018-05-19 15:55:39  [ main:19735 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19735 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19736 ] - [ INFO ]  ##
+2018-05-19 15:55:39  [ main:19736 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19737 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19738 ] - [ INFO ]  这是测试
+2018-05-19 15:55:39  [ main:19738 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19738 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19739 ] - [ INFO ]  this is a test
+2018-05-19 15:55:39  [ main:19739 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19740 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19743 ] - [ INFO ]  14.0
+2018-05-19 15:55:39  [ main:19743 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19744 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19747 ] - [ INFO ]  ##
+2018-05-19 15:55:39  [ main:19748 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19748 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19749 ] - [ INFO ]  这是测试
+2018-05-19 15:55:39  [ main:19750 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19750 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19751 ] - [ INFO ]  this is a test
+2018-05-19 15:55:39  [ main:19751 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19752 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19756 ] - [ INFO ]  14.0
+2018-05-19 15:55:39  [ main:19757 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19758 ] - [ INFO ]  encrypt finis
+2018-05-19 15:55:39  [ main:19762 ] - [ INFO ]  ##
+2018-05-19 15:55:39  [ main:19762 ] - [ INFO ]  encrypt start
+2018-05-19 15:55:39  [ main:19764 ] - [ INFO ]  encrypt finis
+2018-05-19 15:57:45  [ main:0 ] - [ INFO ]  init start
+2018-05-19 15:57:45  [ main:7 ] - [ INFO ]  get formate key start
+2018-05-19 15:57:45  [ main:8 ] - [ INFO ]  get formate key finish
+2018-05-19 15:57:46  [ main:573 ] - [ INFO ]  init finish
+2018-05-19 15:58:01  [ main:15929 ] - [ INFO ]  这是测试
+2018-05-19 15:58:01  [ main:15929 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15931 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15936 ] - [ INFO ]  this is a test
+2018-05-19 15:58:01  [ main:15937 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15937 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15938 ] - [ INFO ]  14.0
+2018-05-19 15:58:01  [ main:15938 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15939 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15940 ] - [ INFO ]  ##
+2018-05-19 15:58:01  [ main:15940 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15946 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15949 ] - [ INFO ]  这是测试
+2018-05-19 15:58:01  [ main:15950 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15950 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15951 ] - [ INFO ]  this is a test
+2018-05-19 15:58:01  [ main:15952 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15952 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15954 ] - [ INFO ]  14.0
+2018-05-19 15:58:01  [ main:15955 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15955 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15956 ] - [ INFO ]  ##
+2018-05-19 15:58:01  [ main:15957 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15957 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15958 ] - [ INFO ]  这是测试
+2018-05-19 15:58:01  [ main:15959 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15959 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15960 ] - [ INFO ]  this is a test
+2018-05-19 15:58:01  [ main:15961 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15961 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15962 ] - [ INFO ]  14.0
+2018-05-19 15:58:01  [ main:15963 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15964 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15965 ] - [ INFO ]  ##
+2018-05-19 15:58:01  [ main:15965 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15966 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15967 ] - [ INFO ]  这是测试
+2018-05-19 15:58:01  [ main:15967 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15968 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15969 ] - [ INFO ]  this is a test
+2018-05-19 15:58:01  [ main:15969 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15970 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15971 ] - [ INFO ]  14.0
+2018-05-19 15:58:01  [ main:15971 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15972 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15973 ] - [ INFO ]  ##
+2018-05-19 15:58:01  [ main:15974 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15974 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15976 ] - [ INFO ]  这是测试
+2018-05-19 15:58:01  [ main:15976 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15976 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15977 ] - [ INFO ]  this is a test
+2018-05-19 15:58:01  [ main:15978 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15978 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15980 ] - [ INFO ]  14.0
+2018-05-19 15:58:01  [ main:15980 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15980 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15981 ] - [ INFO ]  ##
+2018-05-19 15:58:01  [ main:15982 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15982 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15984 ] - [ INFO ]  这是测试
+2018-05-19 15:58:01  [ main:15984 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15985 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15986 ] - [ INFO ]  this is a test
+2018-05-19 15:58:01  [ main:15986 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15987 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15988 ] - [ INFO ]  14.0
+2018-05-19 15:58:01  [ main:15988 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15989 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15990 ] - [ INFO ]  ##
+2018-05-19 15:58:01  [ main:15990 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15991 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15992 ] - [ INFO ]  这是测试
+2018-05-19 15:58:01  [ main:15993 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15993 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15994 ] - [ INFO ]  this is a test
+2018-05-19 15:58:01  [ main:15995 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15995 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15996 ] - [ INFO ]  14.0
+2018-05-19 15:58:01  [ main:15997 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15997 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:15998 ] - [ INFO ]  ##
+2018-05-19 15:58:01  [ main:15999 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:15999 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16000 ] - [ INFO ]  这是测试
+2018-05-19 15:58:01  [ main:16001 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16001 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16002 ] - [ INFO ]  this is a test
+2018-05-19 15:58:01  [ main:16003 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16004 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16005 ] - [ INFO ]  14.0
+2018-05-19 15:58:01  [ main:16005 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16006 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16007 ] - [ INFO ]  ##
+2018-05-19 15:58:01  [ main:16007 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16007 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16008 ] - [ INFO ]  这是测试
+2018-05-19 15:58:01  [ main:16009 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16009 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16010 ] - [ INFO ]  this is a test
+2018-05-19 15:58:01  [ main:16010 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16011 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16012 ] - [ INFO ]  14.0
+2018-05-19 15:58:01  [ main:16012 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16012 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16013 ] - [ INFO ]  ##
+2018-05-19 15:58:01  [ main:16013 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16014 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16015 ] - [ INFO ]  这是测试
+2018-05-19 15:58:01  [ main:16015 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16015 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16016 ] - [ INFO ]  this is a test
+2018-05-19 15:58:01  [ main:16017 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16017 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16018 ] - [ INFO ]  14.0
+2018-05-19 15:58:01  [ main:16018 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16018 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16019 ] - [ INFO ]  ##
+2018-05-19 15:58:01  [ main:16020 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16020 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16021 ] - [ INFO ]  这是测试
+2018-05-19 15:58:01  [ main:16021 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16022 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16023 ] - [ INFO ]  this is a test
+2018-05-19 15:58:01  [ main:16024 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16024 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16025 ] - [ INFO ]  14.0
+2018-05-19 15:58:01  [ main:16026 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16026 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16027 ] - [ INFO ]  ##
+2018-05-19 15:58:01  [ main:16027 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16028 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16029 ] - [ INFO ]  这是测试
+2018-05-19 15:58:01  [ main:16029 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16030 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16031 ] - [ INFO ]  this is a test
+2018-05-19 15:58:01  [ main:16031 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16032 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16034 ] - [ INFO ]  14.0
+2018-05-19 15:58:01  [ main:16035 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16035 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16037 ] - [ INFO ]  ##
+2018-05-19 15:58:01  [ main:16037 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16037 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16039 ] - [ INFO ]  这是测试
+2018-05-19 15:58:01  [ main:16039 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16040 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16041 ] - [ INFO ]  this is a test
+2018-05-19 15:58:01  [ main:16041 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16042 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16043 ] - [ INFO ]  14.0
+2018-05-19 15:58:01  [ main:16043 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16043 ] - [ INFO ]  encrypt finis
+2018-05-19 15:58:01  [ main:16044 ] - [ INFO ]  ##
+2018-05-19 15:58:01  [ main:16045 ] - [ INFO ]  encrypt start
+2018-05-19 15:58:01  [ main:16045 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:0 ] - [ INFO ]  init start
+2018-05-19 16:06:59  [ main:6 ] - [ INFO ]  get formate key start
+2018-05-19 16:06:59  [ main:7 ] - [ INFO ]  get formate key finish
+2018-05-19 16:06:59  [ main:572 ] - [ INFO ]  init finish
+2018-05-19 16:06:59  [ main:585 ] - [ INFO ]  这是测试
+2018-05-19 16:06:59  [ main:585 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:586 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:589 ] - [ INFO ]  this is a test
+2018-05-19 16:06:59  [ main:590 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:590 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:591 ] - [ INFO ]  14.0
+2018-05-19 16:06:59  [ main:592 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:592 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:593 ] - [ INFO ]  ##
+2018-05-19 16:06:59  [ main:593 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:594 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:596 ] - [ INFO ]  这是测试
+2018-05-19 16:06:59  [ main:596 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:597 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:598 ] - [ INFO ]  this is a test
+2018-05-19 16:06:59  [ main:598 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:598 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:600 ] - [ INFO ]  14.0
+2018-05-19 16:06:59  [ main:600 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:600 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:601 ] - [ INFO ]  ##
+2018-05-19 16:06:59  [ main:602 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:602 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:603 ] - [ INFO ]  这是测试
+2018-05-19 16:06:59  [ main:603 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:604 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:605 ] - [ INFO ]  this is a test
+2018-05-19 16:06:59  [ main:605 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:606 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:606 ] - [ INFO ]  14.0
+2018-05-19 16:06:59  [ main:607 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:608 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:609 ] - [ INFO ]  ##
+2018-05-19 16:06:59  [ main:609 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:609 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:610 ] - [ INFO ]  这是测试
+2018-05-19 16:06:59  [ main:610 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:611 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:612 ] - [ INFO ]  this is a test
+2018-05-19 16:06:59  [ main:612 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:612 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:613 ] - [ INFO ]  14.0
+2018-05-19 16:06:59  [ main:614 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:614 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:615 ] - [ INFO ]  ##
+2018-05-19 16:06:59  [ main:616 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:616 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:617 ] - [ INFO ]  这是测试
+2018-05-19 16:06:59  [ main:618 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:618 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:619 ] - [ INFO ]  this is a test
+2018-05-19 16:06:59  [ main:619 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:620 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:621 ] - [ INFO ]  14.0
+2018-05-19 16:06:59  [ main:621 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:621 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:622 ] - [ INFO ]  ##
+2018-05-19 16:06:59  [ main:623 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:623 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:624 ] - [ INFO ]  这是测试
+2018-05-19 16:06:59  [ main:624 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:625 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:626 ] - [ INFO ]  this is a test
+2018-05-19 16:06:59  [ main:626 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:627 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:627 ] - [ INFO ]  14.0
+2018-05-19 16:06:59  [ main:628 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:628 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:629 ] - [ INFO ]  ##
+2018-05-19 16:06:59  [ main:629 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:630 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:631 ] - [ INFO ]  这是测试
+2018-05-19 16:06:59  [ main:631 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:631 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:632 ] - [ INFO ]  this is a test
+2018-05-19 16:06:59  [ main:633 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:633 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:634 ] - [ INFO ]  14.0
+2018-05-19 16:06:59  [ main:634 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:635 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:635 ] - [ INFO ]  ##
+2018-05-19 16:06:59  [ main:636 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:636 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:637 ] - [ INFO ]  这是测试
+2018-05-19 16:06:59  [ main:637 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:638 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:638 ] - [ INFO ]  this is a test
+2018-05-19 16:06:59  [ main:639 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:639 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:640 ] - [ INFO ]  14.0
+2018-05-19 16:06:59  [ main:640 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:641 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:642 ] - [ INFO ]  ##
+2018-05-19 16:06:59  [ main:642 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:642 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:643 ] - [ INFO ]  这是测试
+2018-05-19 16:06:59  [ main:644 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:644 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:645 ] - [ INFO ]  this is a test
+2018-05-19 16:06:59  [ main:645 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:646 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:646 ] - [ INFO ]  14.0
+2018-05-19 16:06:59  [ main:647 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:647 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:648 ] - [ INFO ]  ##
+2018-05-19 16:06:59  [ main:648 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:649 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:649 ] - [ INFO ]  这是测试
+2018-05-19 16:06:59  [ main:650 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:650 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:651 ] - [ INFO ]  this is a test
+2018-05-19 16:06:59  [ main:651 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:652 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:653 ] - [ INFO ]  14.0
+2018-05-19 16:06:59  [ main:653 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:653 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:654 ] - [ INFO ]  ##
+2018-05-19 16:06:59  [ main:655 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:655 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:656 ] - [ INFO ]  这是测试
+2018-05-19 16:06:59  [ main:656 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:657 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:658 ] - [ INFO ]  this is a test
+2018-05-19 16:06:59  [ main:658 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:659 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:660 ] - [ INFO ]  14.0
+2018-05-19 16:06:59  [ main:660 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:678 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:679 ] - [ INFO ]  ##
+2018-05-19 16:06:59  [ main:679 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:680 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:681 ] - [ INFO ]  这是测试
+2018-05-19 16:06:59  [ main:681 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:681 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:682 ] - [ INFO ]  this is a test
+2018-05-19 16:06:59  [ main:682 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:683 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:685 ] - [ INFO ]  14.0
+2018-05-19 16:06:59  [ main:685 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:685 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:686 ] - [ INFO ]  ##
+2018-05-19 16:06:59  [ main:687 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:687 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:688 ] - [ INFO ]  这是测试
+2018-05-19 16:06:59  [ main:688 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:688 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:689 ] - [ INFO ]  this is a test
+2018-05-19 16:06:59  [ main:689 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:690 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:691 ] - [ INFO ]  14.0
+2018-05-19 16:06:59  [ main:691 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:692 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:692 ] - [ INFO ]  ##
+2018-05-19 16:06:59  [ main:693 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:693 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:694 ] - [ INFO ]  这是测试
+2018-05-19 16:06:59  [ main:694 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:695 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:695 ] - [ INFO ]  this is a test
+2018-05-19 16:06:59  [ main:696 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:696 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:697 ] - [ INFO ]  14.0
+2018-05-19 16:06:59  [ main:697 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:697 ] - [ INFO ]  encrypt finis
+2018-05-19 16:06:59  [ main:698 ] - [ INFO ]  ##
+2018-05-19 16:06:59  [ main:698 ] - [ INFO ]  encrypt start
+2018-05-19 16:06:59  [ main:698 ] - [ INFO ]  encrypt finis
