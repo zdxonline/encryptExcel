@@ -1,0 +1,2169 @@
+2018-05-19 15:44:18  [ main:0 ] - [ INFO ]  init start
+2018-05-19 15:44:18  [ main:3 ] - [ INFO ]  get formate key start
+2018-05-19 15:44:18  [ main:5 ] - [ INFO ]  get formate key finish
+2018-05-19 15:44:18  [ main:573 ] - [ INFO ]  init finish
+2018-05-19 15:44:18  [ main:586 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:44:18  [ main:586 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:18  [ main:587 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:18  [ main:601 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:44:18  [ main:601 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:18  [ main:601 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:18  [ main:602 ] - [ INFO ]  8764B96745DAF1CB
+2018-05-19 15:44:18  [ main:602 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:18  [ main:602 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:18  [ main:603 ] - [ INFO ]  23E9FD942EAE0031
+2018-05-19 15:44:18  [ main:603 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:18  [ main:603 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:604 ] - [ INFO ]  566C3666D33C0B12
+2018-05-19 15:44:19  [ main:604 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:604 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:610 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:44:19  [ main:611 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:611 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:612 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:44:19  [ main:612 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:612 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:613 ] - [ INFO ]  534FBA597CC48AFB
+2018-05-19 15:44:19  [ main:613 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:613 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:614 ] - [ INFO ]  D6BC34F3A88A1737
+2018-05-19 15:44:19  [ main:614 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:614 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:614 ] - [ INFO ]  55700389824B811C
+2018-05-19 15:44:19  [ main:615 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:615 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:615 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:44:19  [ main:615 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:616 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:616 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:44:19  [ main:616 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:616 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:617 ] - [ INFO ]  2BE25F7B45CC1C0B
+2018-05-19 15:44:19  [ main:617 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:617 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:618 ] - [ INFO ]  4CF444E5B2E5BC9B
+2018-05-19 15:44:19  [ main:618 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:618 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:619 ] - [ INFO ]  5C1A2C7263E3FE45
+2018-05-19 15:44:19  [ main:619 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:619 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:620 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:44:19  [ main:620 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:620 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:621 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:44:19  [ main:621 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:622 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:622 ] - [ INFO ]  B1AE729D025D783C
+2018-05-19 15:44:19  [ main:622 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:622 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:623 ] - [ INFO ]  62BF6E08BFE154EE
+2018-05-19 15:44:19  [ main:623 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:623 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:624 ] - [ INFO ]  F5803943287CFE8F
+2018-05-19 15:44:19  [ main:624 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:624 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:625 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:44:19  [ main:625 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:625 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:626 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:44:19  [ main:626 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:626 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:627 ] - [ INFO ]  486AA30C910E9E06
+2018-05-19 15:44:19  [ main:627 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:627 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:627 ] - [ INFO ]  60C26997E9F7CEE8
+2018-05-19 15:44:19  [ main:628 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:628 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:629 ] - [ INFO ]  5D5C306118C0E683
+2018-05-19 15:44:19  [ main:629 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:629 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:630 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:44:19  [ main:630 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:630 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:631 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:44:19  [ main:631 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:631 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:631 ] - [ INFO ]  A3459E1EC89F9635
+2018-05-19 15:44:19  [ main:631 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:632 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:632 ] - [ INFO ]  0A9E51F96D0C12A2
+2018-05-19 15:44:19  [ main:632 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:632 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:633 ] - [ INFO ]  D5077A3B732C8E6C
+2018-05-19 15:44:19  [ main:633 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:633 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:634 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:44:19  [ main:634 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:634 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:635 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:44:19  [ main:635 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:635 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:641 ] - [ INFO ]  42B20E01810ADE47
+2018-05-19 15:44:19  [ main:642 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:642 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:643 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:44:19  [ main:643 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:643 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:643 ] - [ INFO ]  BD6F7E35C3DEAA60
+2018-05-19 15:44:19  [ main:644 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:644 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:644 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:44:19  [ main:644 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:645 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:645 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:44:19  [ main:645 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:645 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:646 ] - [ INFO ]  EA1EBB8C1F2C90FF
+2018-05-19 15:44:19  [ main:646 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:646 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:647 ] - [ INFO ]  23E9FD942EAE0031
+2018-05-19 15:44:19  [ main:647 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:647 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:647 ] - [ INFO ]  BE6A8ACD75820575
+2018-05-19 15:44:19  [ main:647 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:648 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:648 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:44:19  [ main:648 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:648 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:649 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:44:19  [ main:649 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:649 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:650 ] - [ INFO ]  DC11191873AB3212
+2018-05-19 15:44:19  [ main:650 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:650 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:651 ] - [ INFO ]  D6BC34F3A88A1737
+2018-05-19 15:44:19  [ main:651 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:651 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:651 ] - [ INFO ]  405FCDC41F983A91
+2018-05-19 15:44:19  [ main:652 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:652 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:652 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:44:19  [ main:652 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:652 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:653 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:44:19  [ main:653 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:653 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:654 ] - [ INFO ]  A5D3E62DC1259631
+2018-05-19 15:44:19  [ main:654 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:654 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:655 ] - [ INFO ]  4CF444E5B2E5BC9B
+2018-05-19 15:44:19  [ main:655 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:655 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:655 ] - [ INFO ]  B9E420643D290A0F
+2018-05-19 15:44:19  [ main:656 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:656 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:656 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:44:19  [ main:656 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:656 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:657 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:44:19  [ main:657 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:657 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:659 ] - [ INFO ]  27610900660C97AE
+2018-05-19 15:44:19  [ main:659 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:659 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:660 ] - [ INFO ]  62BF6E08BFE154EE
+2018-05-19 15:44:19  [ main:660 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:660 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:661 ] - [ INFO ]  2276907B59F06C5D
+2018-05-19 15:44:19  [ main:661 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:661 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:661 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:44:19  [ main:662 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:662 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:666 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:44:19  [ main:666 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:666 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:667 ] - [ INFO ]  C2F221A31808CFFD
+2018-05-19 15:44:19  [ main:667 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:667 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:668 ] - [ INFO ]  60C26997E9F7CEE8
+2018-05-19 15:44:19  [ main:668 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:668 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:669 ] - [ INFO ]  E06B16D85DF5F008
+2018-05-19 15:44:19  [ main:669 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:669 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:669 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:44:19  [ main:669 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:669 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:670 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:44:19  [ main:670 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:670 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:671 ] - [ INFO ]  07A7C7AE19590DB3
+2018-05-19 15:44:19  [ main:671 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:671 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:673 ] - [ INFO ]  0A9E51F96D0C12A2
+2018-05-19 15:44:19  [ main:673 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:674 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:19  [ main:674 ] - [ INFO ]  591C5739FDB3E608
+2018-05-19 15:44:19  [ main:674 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:19  [ main:674 ] - [ INFO ]  decrypt finis
+2018-05-19 15:44:49  [ main:0 ] - [ INFO ]  init start
+2018-05-19 15:44:49  [ main:7 ] - [ INFO ]  get formate key start
+2018-05-19 15:44:49  [ main:9 ] - [ INFO ]  get formate key finish
+2018-05-19 15:44:49  [ main:564 ] - [ INFO ]  init finish
+2018-05-19 15:44:49  [ main:577 ] - [ INFO ]  这是测试
+2018-05-19 15:44:49  [ main:577 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:581 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:581 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:590 ] - [ INFO ]  this is a test
+2018-05-19 15:44:49  [ main:591 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:591 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:591 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:595 ] - [ INFO ]  1.0
+2018-05-19 15:44:49  [ main:595 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:596 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:596 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:596 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:596 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:607 ] - [ INFO ]  !
+2018-05-19 15:44:49  [ main:607 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:609 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:609 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:609 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:609 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:610 ] - [ INFO ]  这%3
+2018-05-19 15:44:49  [ main:611 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:611 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:611 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:611 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:611 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:612 ] - [ INFO ]  这是测试
+2018-05-19 15:44:49  [ main:613 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:613 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:613 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:614 ] - [ INFO ]  this is a test
+2018-05-19 15:44:49  [ main:616 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:616 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:616 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:617 ] - [ INFO ]  2.0
+2018-05-19 15:44:49  [ main:618 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:618 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:618 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:618 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:618 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:619 ] - [ INFO ]  @
+2018-05-19 15:44:49  [ main:620 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:620 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:620 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:620 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:620 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:621 ] - [ INFO ]  这%4
+2018-05-19 15:44:49  [ main:621 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:622 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:622 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:622 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:622 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:624 ] - [ INFO ]  这是测试
+2018-05-19 15:44:49  [ main:624 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:624 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:624 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:625 ] - [ INFO ]  this is a test
+2018-05-19 15:44:49  [ main:626 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:626 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:626 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:627 ] - [ INFO ]  3.0
+2018-05-19 15:44:49  [ main:627 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:628 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:628 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:628 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:628 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:629 ] - [ INFO ]  #
+2018-05-19 15:44:49  [ main:629 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:629 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:629 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:630 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:630 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:631 ] - [ INFO ]  这%5
+2018-05-19 15:44:49  [ main:631 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:631 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:631 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:631 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:631 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:633 ] - [ INFO ]  这是测试
+2018-05-19 15:44:49  [ main:633 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:633 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:633 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:634 ] - [ INFO ]  this is a test
+2018-05-19 15:44:49  [ main:634 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:635 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:635 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:637 ] - [ INFO ]  4.0
+2018-05-19 15:44:49  [ main:637 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:637 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:637 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:637 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:637 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:638 ] - [ INFO ]  $
+2018-05-19 15:44:49  [ main:638 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:638 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:638 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:639 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:639 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:640 ] - [ INFO ]  这%6
+2018-05-19 15:44:49  [ main:640 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:640 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:640 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:640 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:640 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:641 ] - [ INFO ]  这是测试
+2018-05-19 15:44:49  [ main:641 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:642 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:642 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:644 ] - [ INFO ]  this is a test
+2018-05-19 15:44:49  [ main:644 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:645 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:645 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:647 ] - [ INFO ]  5.0
+2018-05-19 15:44:49  [ main:647 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:648 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:648 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:650 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:650 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:653 ] - [ INFO ]  !!
+2018-05-19 15:44:49  [ main:653 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:655 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "!!"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:655 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "!!"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:659 ] - [ INFO ]  这%7
+2018-05-19 15:44:49  [ main:659 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:660 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:660 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:660 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:660 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:661 ] - [ INFO ]  这是测试
+2018-05-19 15:44:49  [ main:661 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:662 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:662 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:662 ] - [ INFO ]  this is a test
+2018-05-19 15:44:49  [ main:663 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:663 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:663 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:664 ] - [ INFO ]  6.0
+2018-05-19 15:44:49  [ main:664 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:664 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:664 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:664 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:664 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:665 ] - [ INFO ]  @@
+2018-05-19 15:44:49  [ main:665 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:665 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "@@"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:665 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "@@"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:666 ] - [ INFO ]  这%8
+2018-05-19 15:44:49  [ main:666 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:667 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:667 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:667 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:667 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:668 ] - [ INFO ]  这是测试
+2018-05-19 15:44:49  [ main:668 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:668 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:668 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:669 ] - [ INFO ]  this is a test
+2018-05-19 15:44:49  [ main:669 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:669 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:669 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:670 ] - [ INFO ]  7.0
+2018-05-19 15:44:49  [ main:671 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:671 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:671 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:671 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:671 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:672 ] - [ INFO ]  ##
+2018-05-19 15:44:49  [ main:672 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:673 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "##"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:673 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "##"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:673 ] - [ INFO ]  这%9
+2018-05-19 15:44:49  [ main:674 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:674 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:674 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:674 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:674 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:675 ] - [ INFO ]  这是测试
+2018-05-19 15:44:49  [ main:675 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:675 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:675 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:676 ] - [ INFO ]  this is a test
+2018-05-19 15:44:49  [ main:676 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:676 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:676 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:677 ] - [ INFO ]  8.0
+2018-05-19 15:44:49  [ main:677 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:678 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:678 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:678 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:678 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:678 ] - [ INFO ]  !
+2018-05-19 15:44:49  [ main:679 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:679 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:679 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:683 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:683 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:684 ] - [ INFO ]  这%10
+2018-05-19 15:44:49  [ main:684 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:684 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:684 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:685 ] - [ INFO ]  这是测试
+2018-05-19 15:44:49  [ main:685 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:687 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:687 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:688 ] - [ INFO ]  this is a test
+2018-05-19 15:44:49  [ main:688 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:689 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:689 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:691 ] - [ INFO ]  9.0
+2018-05-19 15:44:49  [ main:691 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:692 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:692 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:692 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:692 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:692 ] - [ INFO ]  @
+2018-05-19 15:44:49  [ main:693 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:693 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:693 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:693 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:693 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:694 ] - [ INFO ]  这%11
+2018-05-19 15:44:49  [ main:694 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:694 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:694 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:695 ] - [ INFO ]  这是测试
+2018-05-19 15:44:49  [ main:695 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:695 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:695 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:696 ] - [ INFO ]  this is a test
+2018-05-19 15:44:49  [ main:696 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:697 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:697 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:698 ] - [ INFO ]  10.0
+2018-05-19 15:44:49  [ main:698 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:698 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: ".0"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:698 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: ".0"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:699 ] - [ INFO ]  #
+2018-05-19 15:44:49  [ main:699 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:700 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:700 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:700 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:700 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:701 ] - [ INFO ]  这%12
+2018-05-19 15:44:49  [ main:701 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:702 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:702 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:702 ] - [ INFO ]  这是测试
+2018-05-19 15:44:49  [ main:703 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:703 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:703 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:704 ] - [ INFO ]  this is a test
+2018-05-19 15:44:49  [ main:704 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:704 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:704 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:705 ] - [ INFO ]  11.0
+2018-05-19 15:44:49  [ main:705 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:705 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: ".0"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:705 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: ".0"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:706 ] - [ INFO ]  $
+2018-05-19 15:44:49  [ main:706 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:706 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:706 ] - [ ERROR ]  lenth of hex is not right
+2018-05-19 15:44:49  [ main:707 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:707 ] - [ ERROR ]  error whiel decrypt
+java.lang.IllegalArgumentException: Null input buffer
+	at javax.crypto.Cipher.doFinal(Cipher.java:2160)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:42)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:711 ] - [ INFO ]  这%13
+2018-05-19 15:44:49  [ main:711 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:713 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:713 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:714 ] - [ INFO ]  这是测试
+2018-05-19 15:44:49  [ main:715 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:715 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:715 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:718 ] - [ INFO ]  this is a test
+2018-05-19 15:44:49  [ main:718 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:718 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:718 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:719 ] - [ INFO ]  12.0
+2018-05-19 15:44:49  [ main:720 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:720 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: ".0"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:720 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: ".0"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:721 ] - [ INFO ]  !!
+2018-05-19 15:44:49  [ main:721 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:722 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "!!"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:722 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "!!"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:724 ] - [ INFO ]  这%14
+2018-05-19 15:44:49  [ main:724 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:725 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:725 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:726 ] - [ INFO ]  这是测试
+2018-05-19 15:44:49  [ main:726 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:726 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:726 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:727 ] - [ INFO ]  this is a test
+2018-05-19 15:44:49  [ main:727 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:727 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:727 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "th"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:728 ] - [ INFO ]  13.0
+2018-05-19 15:44:49  [ main:728 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:729 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: ".0"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:729 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: ".0"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:730 ] - [ INFO ]  @@
+2018-05-19 15:44:49  [ main:730 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:730 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "@@"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:730 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "@@"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:731 ] - [ INFO ]  这%15
+2018-05-19 15:44:49  [ main:731 ] - [ INFO ]  decrypt start
+2018-05-19 15:44:49  [ main:732 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:44:49  [ main:732 ] - [ ERROR ]  error whiel decrypt
+java.lang.NumberFormatException: For input string: "�"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.dingo.decrypt.DecryptString.hex2byte(DecryptString.java:95)
+	at com.dingo.decrypt.DecryptString.decrypt(DecryptString.java:41)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:39)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:54:24  [ main:0 ] - [ INFO ]  init start
+2018-05-19 15:54:24  [ main:7 ] - [ INFO ]  get formate key start
+2018-05-19 15:54:24  [ main:8 ] - [ INFO ]  get formate key finish
+2018-05-19 15:54:24  [ main:600 ] - [ INFO ]  init finish
+2018-05-19 15:54:24  [ main:612 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:24  [ main:613 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:614 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:621 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:24  [ main:622 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:623 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:626 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:24  [ main:626 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:627 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:630 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:24  [ main:630 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:641 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:643 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:24  [ main:644 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:644 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:645 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:24  [ main:646 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:646 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:654 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:24  [ main:655 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:656 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:657 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:24  [ main:657 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:658 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:658 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:24  [ main:659 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:659 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:667 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:24  [ main:667 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:668 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:674 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:24  [ main:674 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:676 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:678 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:24  [ main:678 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:679 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:681 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:24  [ main:681 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:682 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:683 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:24  [ main:683 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:684 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:685 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:24  [ main:685 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:686 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:687 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:24  [ main:688 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:688 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:689 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:24  [ main:689 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:690 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:691 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:24  [ main:691 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:691 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:692 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:24  [ main:693 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:693 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:694 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:24  [ main:694 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:695 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:695 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:24  [ main:696 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:696 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:697 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:24  [ main:697 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:698 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:699 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:24  [ main:700 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:700 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:701 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:24  [ main:702 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:702 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:703 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:24  [ main:703 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:703 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:705 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:24  [ main:705 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:706 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:707 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:24  [ main:707 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:707 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:708 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:24  [ main:709 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:709 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:710 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:24  [ main:710 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:711 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:712 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:24  [ main:712 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:712 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:713 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:24  [ main:715 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:715 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:716 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:24  [ main:717 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:717 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:718 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:24  [ main:718 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:718 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:719 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:24  [ main:720 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:720 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:721 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:24  [ main:721 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:722 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:724 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:24  [ main:725 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:727 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:728 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:24  [ main:728 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:729 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:729 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:24  [ main:730 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:730 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:731 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:24  [ main:731 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:732 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:733 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:24  [ main:733 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:733 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:734 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:24  [ main:734 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:736 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:736 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:24  [ main:737 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:737 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:738 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:24  [ main:738 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:739 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:739 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:24  [ main:740 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:740 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:741 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:24  [ main:741 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:741 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:742 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:24  [ main:742 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:742 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:743 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:24  [ main:743 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:748 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:749 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:24  [ main:749 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:750 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:752 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:24  [ main:753 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:753 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:754 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:24  [ main:754 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:754 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:755 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:24  [ main:755 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:755 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:756 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:24  [ main:756 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:24  [ main:756 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:24  [ main:759 ] - [ ERROR ]  error while do decrypt
+java.io.FileNotFoundException: C:\test.xlsx (另一个程序正在使用此文件，进程无法访问。)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at com.dingo.decrypt.DecryptExcel.writeFile(DecryptExcel.java:81)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:44)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:54:24  [ main:759 ] - [ ERROR ]  error while do decrypt
+java.io.FileNotFoundException: C:\test.xlsx (另一个程序正在使用此文件，进程无法访问。)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at com.dingo.decrypt.DecryptExcel.writeFile(DecryptExcel.java:81)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:44)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:54:37  [ main:0 ] - [ INFO ]  init start
+2018-05-19 15:54:37  [ main:6 ] - [ INFO ]  get formate key start
+2018-05-19 15:54:37  [ main:8 ] - [ INFO ]  get formate key finish
+2018-05-19 15:54:38  [ main:628 ] - [ INFO ]  init finish
+2018-05-19 15:54:38  [ main:640 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:38  [ main:640 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:641 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:649 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:38  [ main:649 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:658 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:661 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:38  [ main:662 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:662 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:670 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:38  [ main:671 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:671 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:675 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:38  [ main:675 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:676 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:677 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:38  [ main:677 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:677 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:685 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:38  [ main:686 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:686 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:687 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:38  [ main:687 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:688 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:688 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:38  [ main:689 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:689 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:690 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:38  [ main:690 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:690 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:691 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:38  [ main:691 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:692 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:693 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:38  [ main:693 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:693 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:694 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:38  [ main:694 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:695 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:695 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:38  [ main:696 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:696 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:697 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:38  [ main:697 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:698 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:699 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:38  [ main:699 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:699 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:700 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:38  [ main:701 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:701 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:702 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:38  [ main:702 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:702 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:703 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:38  [ main:703 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:703 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:704 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:38  [ main:704 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:704 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:705 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:38  [ main:706 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:706 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:707 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:38  [ main:707 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:707 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:708 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:38  [ main:708 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:708 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:709 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:38  [ main:709 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:709 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:710 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:38  [ main:710 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:711 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:711 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:38  [ main:712 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:712 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:713 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:38  [ main:713 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:714 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:715 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:38  [ main:715 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:715 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:716 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:38  [ main:721 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:722 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:723 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:38  [ main:723 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:724 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:725 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:38  [ main:727 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:728 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:728 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:38  [ main:729 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:729 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:729 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:38  [ main:730 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:730 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:730 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:38  [ main:734 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:735 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:736 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:38  [ main:737 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:739 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:740 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:38  [ main:741 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:742 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:743 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:38  [ main:743 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:743 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:745 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:38  [ main:745 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:745 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:748 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:38  [ main:748 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:748 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:749 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:38  [ main:750 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:750 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:751 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:38  [ main:751 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:751 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:752 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:38  [ main:752 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:755 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:756 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:38  [ main:756 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:756 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:757 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:38  [ main:757 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:757 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:758 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:38  [ main:758 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:759 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:759 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:38  [ main:759 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:760 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:762 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:38  [ main:762 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:762 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:763 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:38  [ main:763 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:763 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:764 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:54:38  [ main:767 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:767 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:768 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:54:38  [ main:768 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:768 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:769 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:54:38  [ main:769 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:769 ] - [ INFO ]  decrypt finis
+2018-05-19 15:54:38  [ main:770 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:54:38  [ main:770 ] - [ INFO ]  decrypt start
+2018-05-19 15:54:38  [ main:770 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:0 ] - [ INFO ]  init start
+2018-05-19 15:56:46  [ main:7 ] - [ INFO ]  get formate key start
+2018-05-19 15:56:46  [ main:9 ] - [ INFO ]  get formate key finish
+2018-05-19 15:56:46  [ main:685 ] - [ INFO ]  init finish
+2018-05-19 15:56:46  [ main:700 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:46  [ main:700 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:701 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:710 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:46  [ main:710 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:712 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:715 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:46  [ main:715 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:716 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:722 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:46  [ main:723 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:723 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:735 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:46  [ main:738 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:739 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:740 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:46  [ main:740 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:740 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:741 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:46  [ main:742 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:742 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:743 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:46  [ main:743 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:743 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:744 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:46  [ main:745 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:745 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:746 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:46  [ main:746 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:746 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:747 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:46  [ main:747 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:748 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:748 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:46  [ main:749 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:749 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:750 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:46  [ main:750 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:750 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:751 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:46  [ main:751 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:752 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:752 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:46  [ main:753 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:753 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:754 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:46  [ main:754 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:755 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:759 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:46  [ main:760 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:761 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:762 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:46  [ main:763 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:763 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:764 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:46  [ main:764 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:764 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:765 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:46  [ main:765 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:766 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:766 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:46  [ main:767 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:767 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:768 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:46  [ main:768 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:768 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:769 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:46  [ main:769 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:770 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:771 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:46  [ main:771 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:773 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:773 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:46  [ main:774 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:774 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:775 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:46  [ main:775 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:775 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:776 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:46  [ main:776 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:776 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:778 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:46  [ main:778 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:781 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:782 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:46  [ main:782 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:782 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:783 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:46  [ main:783 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:784 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:784 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:46  [ main:786 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:787 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:787 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:46  [ main:788 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:788 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:789 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:46  [ main:789 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:790 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:790 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:46  [ main:791 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:791 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:792 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:46  [ main:792 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:792 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:793 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:46  [ main:793 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:793 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:795 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:46  [ main:796 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:796 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:797 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:46  [ main:797 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:797 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:798 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:46  [ main:798 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:799 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:799 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:46  [ main:799 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:800 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:809 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:46  [ main:809 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:809 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:810 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:46  [ main:810 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:811 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:811 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:46  [ main:812 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:812 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:812 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:46  [ main:813 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:813 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:813 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:46  [ main:814 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:814 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:815 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:46  [ main:815 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:815 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:817 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:46  [ main:817 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:817 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:818 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:46  [ main:819 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:819 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:819 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:46  [ main:820 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:820 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:821 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:46  [ main:821 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:821 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:822 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:46  [ main:822 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:822 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:823 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:46  [ main:853 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:46  [ main:854 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:46  [ main:856 ] - [ ERROR ]  error while do decrypt
+java.io.FileNotFoundException: C:\test.xlsx (另一个程序正在使用此文件，进程无法访问。)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at com.dingo.decrypt.DecryptExcel.writeFile(DecryptExcel.java:81)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:44)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:56:46  [ main:856 ] - [ ERROR ]  error while do decrypt
+java.io.FileNotFoundException: C:\test.xlsx (另一个程序正在使用此文件，进程无法访问。)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at com.dingo.decrypt.DecryptExcel.writeFile(DecryptExcel.java:81)
+	at com.dingo.decrypt.DecryptExcel.doDecrypt(DecryptExcel.java:44)
+	at com.dingo.decrypt.App.main(App.java:7)
+2018-05-19 15:56:56  [ main:0 ] - [ INFO ]  init start
+2018-05-19 15:56:56  [ main:7 ] - [ INFO ]  get formate key start
+2018-05-19 15:56:56  [ main:8 ] - [ INFO ]  get formate key finish
+2018-05-19 15:56:56  [ main:613 ] - [ INFO ]  init finish
+2018-05-19 15:56:56  [ main:624 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:56  [ main:625 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:634 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:639 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:56  [ main:640 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:640 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:641 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:56  [ main:641 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:641 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:648 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:56  [ main:648 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:649 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:651 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:56  [ main:651 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:652 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:653 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:56  [ main:653 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:653 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:656 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:56  [ main:656 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:656 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:657 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:56  [ main:657 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:658 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:658 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:56  [ main:659 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:659 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:660 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:56  [ main:660 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:660 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:661 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:56  [ main:662 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:672 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:673 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:56  [ main:673 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:673 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:674 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:56  [ main:675 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:675 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:676 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:56  [ main:676 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:676 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:677 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:56  [ main:677 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:677 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:678 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:56  [ main:679 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:679 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:680 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:56  [ main:680 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:680 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:681 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:56  [ main:681 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:682 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:682 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:56  [ main:683 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:687 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:688 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:56  [ main:688 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:689 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:689 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:56  [ main:690 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:690 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:691 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:56  [ main:691 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:691 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:692 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:56  [ main:692 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:693 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:693 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:56  [ main:694 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:694 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:695 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:56  [ main:695 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:695 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:696 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:56  [ main:696 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:696 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:697 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:56  [ main:697 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:697 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:698 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:56  [ main:698 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:698 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:699 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:56  [ main:699 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:700 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:700 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:56  [ main:705 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:706 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:706 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:56  [ main:707 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:707 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:707 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:56  [ main:708 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:708 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:709 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:56  [ main:709 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:709 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:710 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:56  [ main:710 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:710 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:711 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:56  [ main:711 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:711 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:712 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:56  [ main:712 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:712 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:713 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:56  [ main:714 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:714 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:715 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:56  [ main:715 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:715 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:716 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:56  [ main:716 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:716 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:717 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:56  [ main:717 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:717 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:726 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:56  [ main:726 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:727 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:727 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:56  [ main:731 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:731 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:732 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:56  [ main:732 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:733 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:734 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:56  [ main:734 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:734 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:735 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:56  [ main:735 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:735 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:736 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:56  [ main:736 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:736 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:738 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:56  [ main:738 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:738 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:740 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:56  [ main:740 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:740 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:741 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 15:56:56  [ main:741 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:741 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:743 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 15:56:56  [ main:744 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:744 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:744 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 15:56:56  [ main:745 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:745 ] - [ INFO ]  decrypt finis
+2018-05-19 15:56:56  [ main:745 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 15:56:56  [ main:746 ] - [ INFO ]  decrypt start
+2018-05-19 15:56:56  [ main:747 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:0 ] - [ INFO ]  init start
+2018-05-19 16:01:51  [ main:7 ] - [ INFO ]  get formate key start
+2018-05-19 16:01:51  [ main:8 ] - [ INFO ]  get formate key finish
+2018-05-19 16:01:51  [ main:586 ] - [ INFO ]  init finish
+2018-05-19 16:01:51  [ main:598 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 16:01:51  [ main:599 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:600 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:605 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 16:01:51  [ main:606 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:606 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:607 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 16:01:51  [ main:607 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:607 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:608 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 16:01:51  [ main:609 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:609 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:611 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 16:01:51  [ main:612 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:612 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:613 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 16:01:51  [ main:613 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:613 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:615 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 16:01:51  [ main:615 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:615 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:616 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 16:01:51  [ main:616 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:616 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:617 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 16:01:51  [ main:617 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:618 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:618 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 16:01:51  [ main:619 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:619 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:620 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 16:01:51  [ main:621 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:621 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:622 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 16:01:51  [ main:622 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:622 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:623 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 16:01:51  [ main:624 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:624 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:625 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 16:01:51  [ main:625 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:625 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:626 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 16:01:51  [ main:627 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:627 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:628 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 16:01:51  [ main:629 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:629 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:630 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 16:01:51  [ main:630 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:630 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:631 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 16:01:51  [ main:631 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:632 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:632 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 16:01:51  [ main:633 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:633 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:634 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 16:01:51  [ main:634 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:634 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:635 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 16:01:51  [ main:635 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:636 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:637 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 16:01:51  [ main:637 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:637 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:638 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 16:01:51  [ main:638 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:638 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:639 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 16:01:51  [ main:639 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:640 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:641 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 16:01:51  [ main:641 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:641 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:642 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 16:01:51  [ main:643 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:643 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:644 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 16:01:51  [ main:644 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:644 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:645 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 16:01:51  [ main:645 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:645 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:646 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 16:01:51  [ main:647 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:647 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:648 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 16:01:51  [ main:648 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:648 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:649 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 16:01:51  [ main:649 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:659 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:660 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 16:01:51  [ main:661 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:661 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:662 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 16:01:51  [ main:662 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:662 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:663 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 16:01:51  [ main:663 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:663 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:664 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 16:01:51  [ main:664 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:664 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:665 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 16:01:51  [ main:665 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:665 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:666 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 16:01:51  [ main:666 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:667 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:667 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 16:01:51  [ main:667 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:668 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:668 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 16:01:51  [ main:669 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:669 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:669 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 16:01:51  [ main:670 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:670 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:671 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 16:01:51  [ main:671 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:671 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:672 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 16:01:51  [ main:672 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:672 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:673 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 16:01:51  [ main:686 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:686 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:687 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 16:01:51  [ main:688 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:688 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:689 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 16:01:51  [ main:690 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:690 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:691 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 16:01:51  [ main:691 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:691 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:692 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 16:01:51  [ main:692 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:692 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:693 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 16:01:51  [ main:694 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:694 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:695 ] - [ INFO ]  6EF7F83F159F3B9CDC21A6DC8D99E7E1
+2018-05-19 16:01:51  [ main:695 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:695 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:696 ] - [ INFO ]  EE7211D01BC3517A2814B1EF7EC873F4
+2018-05-19 16:01:51  [ main:696 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:696 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:697 ] - [ INFO ]  85D10DBFB1BB4719
+2018-05-19 16:01:51  [ main:697 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:697 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:698 ] - [ INFO ]  B0F0A8F670CF299B
+2018-05-19 16:01:51  [ main:698 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:700 ] - [ INFO ]  decrypt finis
+2018-05-19 16:01:51  [ main:701 ] - [ INFO ]  这是测试
+2018-05-19 16:01:51  [ main:702 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:703 ] - [ INFO ]  this is a test
+2018-05-19 16:01:51  [ main:703 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:717 ] - [ INFO ]  14.0
+2018-05-19 16:01:51  [ main:717 ] - [ INFO ]  decrypt start
+2018-05-19 16:01:51  [ main:719 ] - [ INFO ]  ##
+2018-05-19 16:01:51  [ main:719 ] - [ INFO ]  decrypt start
